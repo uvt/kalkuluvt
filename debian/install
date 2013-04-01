@@ -1,0 +1,5 @@
+*.py /usr/share/kalkuluvt/
+*.desktop /usr/share/applications/
+gambar/kalkulator.png /usr/share/icons/
+gambar/*.png /usr/share/kalkuluvt/gambar/
+kalkuluvt.sh /usr/bin

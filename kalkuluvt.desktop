@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Kalkulator UVT
+Comment=Operasi matematika
+Exec=bash kalkuluvt.sh
+Icon=kalkuluvt
+Terminal=false
+Type=Application
+Categories=X-Education;X-Kalkuluvt;
+StartupNotify=true
