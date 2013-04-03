@@ -2,9 +2,9 @@
 Encoding=UTF-8
 Name=Kalkulator UVT
 Comment=Operasi matematika
-Exec=bash kalkuluvt.sh
+Exec=kalkuluvt
 Icon=kalkulator
 Terminal=false
 Type=Application
-Categories=GNOME;GTK;Utility;Kalkuluvt;
+Categories=Peralatan-UVT;
 StartupNotify=true
